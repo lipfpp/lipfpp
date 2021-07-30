@@ -1,4 +1,4 @@
-### Hi there, I'm Felipe 👋
+### Hi there, I'm Felipe
 
 - 🔭 I’m currently working on oceanography data (remote sensing, reanalysis, buoys).
 - 🌱 I'm currently learning about the Marine Heatwaves
