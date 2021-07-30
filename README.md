@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on oceanography data (remote sensing, reanalysis, buoys).
 - 🌱 I'm currently learning about the Marine Heatwaves
-- 📫 How to reach me: lipfpp@gmail.com 	
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipfpp&show_icons=true&theme=dark)
